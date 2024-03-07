@@ -1,7 +1,5 @@
 ## Or Blacklist v2 and Warns v2
 
-
-
 > [!WARNING]  
 > This document is here to explain to you and the community what is my project.
 > Only a few percent of the base is created, now this needs to be created.
@@ -22,7 +20,8 @@ this Is the first community blacklist system of the ponytown community. the purp
 #### - How to submit?
 There will be two ways of submitting someone:
 - Either by using the General blacklist bot (soon), or by using your custom made bot for your regiment.
-[!alt-image]
+
+![!alt-image](https://i.imgur.com/u5VjOoT.png)
 
 > Exemple of the command to execute.
 -  Or you can go on the discord server (soon) and submit it manualy.
@@ -44,13 +43,16 @@ Because if we make a Blacklist file for each bot, it will become a mess to handl
 
 So the new repo can look like this:
 
-![[Base_repoWblist.png]]
+![!alt-image](https://i.imgur.com/02cueJ7.png)
+
 >in this order, The Repo_regi_bot still have 3 bots, and Repo_Blacklist contains 3 blacklist stored in `.txt` file.
 
 this organisation allows every bot to parce every ``Blacklist.json`` when someone is searching for a blacklist.
 I encounter another problem.. A **organisation** problem.. Scrambling all blacklist will just make me you confused. 
 So i'll do what you think: sort all blacklist per regiments! 
-![[Base_repoWblistWregi_folder.png]]
+
+![!alt-image](https://i.imgur.com/3Y1nbWX.png)
+
 > This order is better for organize. All regiment now have their own sub folder to store their blacklists.
 
 >[!NOTE]
@@ -60,7 +62,8 @@ So i'll do what you think: sort all blacklist per regiments!
 
 This will fix the problem and actually allows me to create another useful feature: to know in **how much** regi someone is blacklisted.
 
- ![[Pasted image 20240306141150.png]]
+![!alt-image](https://i.imgur.com/W9uSnAO.png)
+
 > this shows the actual presentation of the bot, but it can be improved even more by giving more information (scroll down for more information.)
 
 #### - What data will you store?
@@ -184,8 +187,11 @@ This roadmap allows you to keep track of the developpement of the project.
 - [ ] Create and fill the database
 - [ ] Open the bot in closed beta (in 2-3 regis)
 
-> [!NOTE] Developper note:
+> [!NOTE]
+> Developper note:
+> 
 > The project is WIP.
+> 
 > I just began.
 
 ---
@@ -216,7 +222,7 @@ None for the moment.
 ## Licence:
 I wanted to protect my work. so here is the licence that protect this project and what it means.
 
->[!Note] Licence
+>[!WARNING]
 >BLCKlist and WRNs © 2024 by [betawolfy_](https://betawolfy.xyz/) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
 
