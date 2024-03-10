@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mongodb": "^6.4.0",
+    "mongoose": "^8.2.1",
+    "quickmongo": "^5.2.0"
+  }
+}
